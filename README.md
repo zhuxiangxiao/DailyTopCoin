@@ -1,7 +1,7 @@
 DailyTopCoinHelper
 ============
 
-####Description:
+Description:
 
     淘金币助手 - 帮助淘宝用户实现批量账户的淘金币自动自动领取。
 
